@@ -93,6 +93,7 @@ def round():
     credits = temp   
 
 def main():
+    global win
     global credits
 
     story()
